@@ -5,7 +5,7 @@ import time
 pasta = r"C:\Program Files (x86)\Horus\Executaveis"
 
 # Lista de arquivos para deletar
-arquivos_para_deletar = ["compras.exe", "contabil.exe"]
+arquivos_para_deletar = ["Compras.exe", "Contabil.exe"]
 
 def deletar_arquivos():
     for arquivo in arquivos_para_deletar:
@@ -23,3 +23,4 @@ if __name__ == "__main__":
     # Espera alguns segundos para garantir que o Windows terminou de carregar
     time.sleep(5)
     deletar_arquivos()
+
