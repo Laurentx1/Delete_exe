@@ -9,7 +9,7 @@ Funcionalidades
 - Exibe mensagens de status (`OK`, `ERRO`, `INFO`).
 - Aguarda alguns segundos antes da execução para garantir que o sistema carregou.
 
-## 🛠️ Tecnologias Utilizadas
+Tecnologias Utilizadas
 - **Python 3.10.11**
 - Bibliotecas padrão: `os`, `time`
 
